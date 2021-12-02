@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Question Solver',
+      title: 'Question Solver V1.0.0',
       theme: ThemeData(
           primarySwatch: Colors.blue
       ),
